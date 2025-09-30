@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"X:/myDocuments/Unreal Projects/UE6PythonProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"X:/myDocuments/Unreal Projects/UE6PythonProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/V0/404ST3CGYTH2KXAL2GAHVQ.uasset",
+				"X:/myDocuments/Unreal Projects/UE6PythonProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/36/V1GPE3A351N1ZYPGVVNK3P.uasset",
+				"X:/myDocuments/Unreal Projects/UE6PythonProject/Content/CustomAssets/Python_Material.uasset"
+			]
+		}
+	]
+}
