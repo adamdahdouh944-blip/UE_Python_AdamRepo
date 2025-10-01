@@ -28,6 +28,7 @@ class UnrealToolWindow(QWidget):
         self.slider.valueChanged.connect(self.sliderChanged)
 
         self.label = QLabel()
+        self.label.setText("0")
 
         #self.main_window.setCentralWidget(self.slider)
 
