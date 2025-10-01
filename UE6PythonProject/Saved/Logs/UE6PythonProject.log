@@ -1389,3 +1389,875 @@ AttributeError: type object 'PySide6.QtWidgets.QApplication' has no attribute 'i
 [2025.10.01-10.57.46:972][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4757.038086
 [2025.10.01-10.57.47:975][585]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.01-10.57.47:975][586]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4757.709961, Update Interval: 317.856995
+[2025.10.01-11.03.39:326][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5109.399414
+[2025.10.01-11.03.40:327][537]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-11.03.40:327][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5110.056641, Update Interval: 352.137207
+[2025.10.01-11.10.08:040][700]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5498.114746
+[2025.10.01-11.10.09:054][703]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-11.10.09:054][704]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5498.783691, Update Interval: 303.647583
+[2025.10.01-11.13.56:780][386]LogPython: Error: Traceback (most recent call last):
+  File "c:\Users\adamd\Desktop\UE5_Python_Repo\UE_Python_AdamRepo\UE6PythonProject\Content\Python\GUI_Python.py:62", line 62, in <module>
+    launchWindow()
+  File "c:\Users\adamd\Desktop\UE5_Python_Repo\UE_Python_AdamRepo\UE6PythonProject\Content\Python\GUI_Python.py:56", line 56, in launchWindow
+    UnrealToolWindow.window = UnrealToolWindow()
+                               ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adamd\Desktop\UE5_Python_Repo\UE_Python_AdamRepo\UE6PythonProject\Content\Python\GUI_Python.py:31", line 31, in __init__
+    self.main_window.setCentralWidget(self.button)
+                                       ^^^^^^^^^^^
+AttributeError: 'UnrealToolWindow' object has no attribute 'button'
+
+[2025.10.01-11.15.00:126][869]LogPython: Sldier was moved to: 26
+[2025.10.01-11.15.00:207][874]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.00:257][877]LogPython: Sldier was moved to: 28
+[2025.10.01-11.15.00:272][878]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.00:290][879]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.00:306][880]LogPython: Sldier was moved to: 31
+[2025.10.01-11.15.00:324][881]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.00:342][882]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.00:356][883]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.00:373][884]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.00:389][885]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.00:507][892]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.00:523][893]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.00:540][894]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.00:559][895]LogPython: Sldier was moved to: 28
+[2025.10.01-11.15.00:574][896]LogPython: Sldier was moved to: 26
+[2025.10.01-11.15.00:590][897]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.00:623][899]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.00:625][899]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.00:657][901]LogPython: Sldier was moved to: 21
+[2025.10.01-11.15.00:674][902]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.00:707][904]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.00:740][906]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.00:825][911]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.00:891][915]LogPython: Sldier was moved to: 16
+[2025.10.01-11.15.00:957][919]LogPython: Sldier was moved to: 15
+[2025.10.01-11.15.01:040][924]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.01:073][926]LogPython: Sldier was moved to: 13
+[2025.10.01-11.15.01:157][931]LogPython: Sldier was moved to: 12
+[2025.10.01-11.15.01:207][934]LogPython: Sldier was moved to: 11
+[2025.10.01-11.15.01:473][950]LogPython: Sldier was moved to: 12
+[2025.10.01-11.15.01:524][953]LogPython: Sldier was moved to: 13
+[2025.10.01-11.15.01:557][955]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.01:606][958]LogPython: Sldier was moved to: 15
+[2025.10.01-11.15.01:657][961]LogPython: Sldier was moved to: 16
+[2025.10.01-11.15.01:690][963]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.01:724][965]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.01:791][969]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.01:824][971]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.01:874][974]LogPython: Sldier was moved to: 21
+[2025.10.01-11.15.01:940][978]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.01:990][981]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.02:041][984]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.02:090][987]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.02:141][990]LogPython: Sldier was moved to: 26
+[2025.10.01-11.15.02:207][994]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.02:256][997]LogPython: Sldier was moved to: 28
+[2025.10.01-11.15.02:290][999]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.02:324][  1]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.02:373][  4]LogPython: Sldier was moved to: 31
+[2025.10.01-11.15.02:407][  6]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.02:423][  7]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.02:440][  8]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.02:457][  9]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.02:474][ 10]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.02:490][ 11]LogPython: Sldier was moved to: 37
+[2025.10.01-11.15.02:506][ 12]LogPython: Sldier was moved to: 38
+[2025.10.01-11.15.02:541][ 14]LogPython: Sldier was moved to: 39
+[2025.10.01-11.15.02:557][ 15]LogPython: Sldier was moved to: 40
+[2025.10.01-11.15.02:573][ 16]LogPython: Sldier was moved to: 41
+[2025.10.01-11.15.02:607][ 18]LogPython: Sldier was moved to: 42
+[2025.10.01-11.15.02:640][ 20]LogPython: Sldier was moved to: 43
+[2025.10.01-11.15.02:673][ 22]LogPython: Sldier was moved to: 44
+[2025.10.01-11.15.02:707][ 24]LogPython: Sldier was moved to: 45
+[2025.10.01-11.15.02:756][ 27]LogPython: Sldier was moved to: 46
+[2025.10.01-11.15.02:807][ 30]LogPython: Sldier was moved to: 47
+[2025.10.01-11.15.02:840][ 32]LogPython: Sldier was moved to: 48
+[2025.10.01-11.15.03:073][ 46]LogPython: Sldier was moved to: 47
+[2025.10.01-11.15.03:091][ 47]LogPython: Sldier was moved to: 45
+[2025.10.01-11.15.03:107][ 48]LogPython: Sldier was moved to: 44
+[2025.10.01-11.15.03:123][ 49]LogPython: Sldier was moved to: 43
+[2025.10.01-11.15.03:140][ 50]LogPython: Sldier was moved to: 42
+[2025.10.01-11.15.03:157][ 51]LogPython: Sldier was moved to: 40
+[2025.10.01-11.15.03:173][ 52]LogPython: Sldier was moved to: 39
+[2025.10.01-11.15.03:190][ 53]LogPython: Sldier was moved to: 38
+[2025.10.01-11.15.03:208][ 54]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.03:223][ 55]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.03:241][ 56]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.03:241][ 56]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.03:258][ 57]LogPython: Sldier was moved to: 31
+[2025.10.01-11.15.03:274][ 58]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.03:291][ 59]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.03:307][ 60]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.03:324][ 61]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.03:340][ 62]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.03:358][ 63]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.03:391][ 65]LogPython: Sldier was moved to: 21
+[2025.10.01-11.15.03:424][ 67]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.03:440][ 68]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.03:474][ 70]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.03:507][ 72]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.03:541][ 74]LogPython: Sldier was moved to: 16
+[2025.10.01-11.15.03:558][ 75]LogPython: Sldier was moved to: 15
+[2025.10.01-11.15.03:573][ 76]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.03:591][ 77]LogPython: Sldier was moved to: 12
+[2025.10.01-11.15.03:608][ 78]LogPython: Sldier was moved to: 11
+[2025.10.01-11.15.03:624][ 79]LogPython: Sldier was moved to: 10
+[2025.10.01-11.15.03:641][ 80]LogPython: Sldier was moved to: 9
+[2025.10.01-11.15.03:657][ 81]LogPython: Sldier was moved to: 8
+[2025.10.01-11.15.03:690][ 83]LogPython: Sldier was moved to: 7
+[2025.10.01-11.15.03:724][ 85]LogPython: Sldier was moved to: 6
+[2025.10.01-11.15.03:874][ 94]LogPython: Sldier was moved to: 8
+[2025.10.01-11.15.03:891][ 95]LogPython: Sldier was moved to: 9
+[2025.10.01-11.15.03:907][ 96]LogPython: Sldier was moved to: 12
+[2025.10.01-11.15.03:923][ 97]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.03:941][ 98]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.03:958][ 99]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.03:974][100]LogPython: Sldier was moved to: 21
+[2025.10.01-11.15.03:990][101]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.04:008][102]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.04:041][104]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.04:057][105]LogPython: Sldier was moved to: 26
+[2025.10.01-11.15.04:091][107]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.04:107][108]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.04:123][109]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.04:140][110]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.04:157][111]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.04:174][112]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.04:191][113]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.04:208][114]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.04:224][115]LogPython: Sldier was moved to: 38
+[2025.10.01-11.15.04:257][117]LogPython: Sldier was moved to: 39
+[2025.10.01-11.15.04:290][119]LogPython: Sldier was moved to: 40
+[2025.10.01-11.15.04:307][120]LogPython: Sldier was moved to: 41
+[2025.10.01-11.15.04:491][131]LogPython: Sldier was moved to: 40
+[2025.10.01-11.15.04:507][132]LogPython: Sldier was moved to: 39
+[2025.10.01-11.15.04:541][134]LogPython: Sldier was moved to: 38
+[2025.10.01-11.15.04:573][136]LogPython: Sldier was moved to: 37
+[2025.10.01-11.15.04:591][137]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.04:623][139]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.04:674][142]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.04:991][161]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.05:007][162]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.05:023][163]LogPython: Sldier was moved to: 37
+[2025.10.01-11.15.05:041][164]LogPython: Sldier was moved to: 38
+[2025.10.01-11.15.05:057][165]LogPython: Sldier was moved to: 39
+[2025.10.01-11.15.05:091][167]LogPython: Sldier was moved to: 40
+[2025.10.01-11.15.05:108][168]LogPython: Sldier was moved to: 41
+[2025.10.01-11.15.05:141][170]LogPython: Sldier was moved to: 42
+[2025.10.01-11.15.05:174][172]LogPython: Sldier was moved to: 43
+[2025.10.01-11.15.05:374][184]LogPython: Sldier was moved to: 42
+[2025.10.01-11.15.05:407][186]LogPython: Sldier was moved to: 41
+[2025.10.01-11.15.05:424][187]LogPython: Sldier was moved to: 40
+[2025.10.01-11.15.05:441][188]LogPython: Sldier was moved to: 39
+[2025.10.01-11.15.05:457][189]LogPython: Sldier was moved to: 38
+[2025.10.01-11.15.05:490][191]LogPython: Sldier was moved to: 37
+[2025.10.01-11.15.05:507][192]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.05:523][193]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.05:541][194]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.05:557][195]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.05:573][196]LogPython: Sldier was moved to: 28
+[2025.10.01-11.15.05:591][197]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.05:607][198]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.05:623][199]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.05:641][200]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.05:641][200]LogPython: Sldier was moved to: 16
+[2025.10.01-11.15.05:657][201]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.05:674][202]LogPython: Sldier was moved to: 12
+[2025.10.01-11.15.05:691][203]LogPython: Sldier was moved to: 11
+[2025.10.01-11.15.05:707][204]LogPython: Sldier was moved to: 10
+[2025.10.01-11.15.05:724][205]LogPython: Sldier was moved to: 9
+[2025.10.01-11.15.05:757][207]LogPython: Sldier was moved to: 8
+[2025.10.01-11.15.05:773][208]LogPython: Sldier was moved to: 7
+[2025.10.01-11.15.05:791][209]LogPython: Sldier was moved to: 4
+[2025.10.01-11.15.05:807][210]LogPython: Sldier was moved to: 2
+[2025.10.01-11.15.05:873][214]LogPython: Sldier was moved to: 1
+[2025.10.01-11.15.05:991][221]LogPython: Sldier was moved to: 0
+[2025.10.01-11.15.06:324][241]LogPython: Sldier was moved to: 1
+[2025.10.01-11.15.06:341][242]LogPython: Sldier was moved to: 2
+[2025.10.01-11.15.06:357][243]LogPython: Sldier was moved to: 4
+[2025.10.01-11.15.06:374][244]LogPython: Sldier was moved to: 6
+[2025.10.01-11.15.06:391][245]LogPython: Sldier was moved to: 9
+[2025.10.01-11.15.06:407][246]LogPython: Sldier was moved to: 10
+[2025.10.01-11.15.06:424][247]LogPython: Sldier was moved to: 12
+[2025.10.01-11.15.06:441][248]LogPython: Sldier was moved to: 13
+[2025.10.01-11.15.06:457][249]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.06:474][250]LogPython: Sldier was moved to: 15
+[2025.10.01-11.15.06:490][251]LogPython: Sldier was moved to: 16
+[2025.10.01-11.15.06:507][252]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.06:524][253]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.06:557][255]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.06:574][256]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.06:590][257]LogPython: Sldier was moved to: 21
+[2025.10.01-11.15.06:608][258]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.06:641][260]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.06:641][260]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.06:657][261]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.06:674][262]LogPython: Sldier was moved to: 26
+[2025.10.01-11.15.06:690][263]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.06:707][264]LogPython: Sldier was moved to: 28
+[2025.10.01-11.15.06:724][265]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.06:757][267]LogPython: Sldier was moved to: 31
+[2025.10.01-11.15.06:774][268]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.06:791][269]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.06:807][270]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.06:824][271]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.06:840][272]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.06:857][273]LogPython: Sldier was moved to: 37
+[2025.10.01-11.15.06:874][274]LogPython: Sldier was moved to: 38
+[2025.10.01-11.15.06:891][275]LogPython: Sldier was moved to: 39
+[2025.10.01-11.15.06:907][276]LogPython: Sldier was moved to: 40
+[2025.10.01-11.15.06:957][279]LogPython: Sldier was moved to: 41
+[2025.10.01-11.15.07:008][282]LogPython: Sldier was moved to: 42
+[2025.10.01-11.15.07:091][287]LogPython: Sldier was moved to: 41
+[2025.10.01-11.15.07:107][288]LogPython: Sldier was moved to: 40
+[2025.10.01-11.15.07:124][289]LogPython: Sldier was moved to: 39
+[2025.10.01-11.15.07:141][290]LogPython: Sldier was moved to: 38
+[2025.10.01-11.15.07:158][291]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.07:174][292]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.07:191][293]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.07:224][295]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.08:274][358]LogPython: Sldier was moved to: 31
+[2025.10.01-11.15.08:290][359]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.08:324][361]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.08:341][362]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.08:358][363]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.08:374][364]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.08:390][365]LogPython: Sldier was moved to: 21
+[2025.10.01-11.15.08:407][366]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.08:424][367]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.08:441][368]LogPython: Sldier was moved to: 16
+[2025.10.01-11.15.08:457][369]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.08:474][370]LogPython: Sldier was moved to: 13
+[2025.10.01-11.15.08:491][371]LogPython: Sldier was moved to: 12
+[2025.10.01-11.15.08:507][372]LogPython: Sldier was moved to: 11
+[2025.10.01-11.15.08:524][373]LogPython: Sldier was moved to: 10
+[2025.10.01-11.15.08:574][376]LogPython: Sldier was moved to: 9
+[2025.10.01-11.15.08:590][377]LogPython: Sldier was moved to: 8
+[2025.10.01-11.15.08:624][379]LogPython: Sldier was moved to: 7
+[2025.10.01-11.15.08:657][381]LogPython: Sldier was moved to: 6
+[2025.10.01-11.15.08:791][389]LogPython: Sldier was moved to: 5
+[2025.10.01-11.15.11:641][560]LogPython: Sldier was moved to: 10
+[2025.10.01-11.15.11:841][572]LogPython: Sldier was moved to: 12
+[2025.10.01-11.15.11:858][573]LogPython: Sldier was moved to: 13
+[2025.10.01-11.15.11:873][574]LogPython: Sldier was moved to: 15
+[2025.10.01-11.15.11:891][575]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.11:907][576]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.11:924][577]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.11:941][578]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.11:957][579]LogPython: Sldier was moved to: 21
+[2025.10.01-11.15.11:975][580]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.11:991][581]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.12:007][582]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.12:024][583]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.12:025][583]LogPython: Sldier was moved to: 26
+[2025.10.01-11.15.12:041][584]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.12:058][585]LogPython: Sldier was moved to: 28
+[2025.10.01-11.15.12:074][586]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.12:091][587]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.12:124][589]LogPython: Sldier was moved to: 31
+[2025.10.01-11.15.12:141][590]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.12:157][591]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.12:175][592]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.12:191][593]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.12:224][595]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.12:291][599]LogPython: Sldier was moved to: 37
+[2025.10.01-11.15.12:441][608]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.12:474][610]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.12:491][611]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.12:508][612]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.12:541][614]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.12:575][616]LogPython: Sldier was moved to: 31
+[2025.10.01-11.15.12:607][618]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.12:641][620]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.12:674][622]LogPython: Sldier was moved to: 28
+[2025.10.01-11.15.12:707][624]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.12:791][629]LogPython: Sldier was moved to: 26
+[2025.10.01-11.15.12:891][635]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.12:957][639]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.13:043][644]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.13:107][648]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.13:157][651]LogPython: Sldier was moved to: 21
+[2025.10.01-11.15.13:241][656]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.13:291][659]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.13:374][664]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.13:591][677]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.13:625][679]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.13:657][681]LogPython: Sldier was moved to: 21
+[2025.10.01-11.15.13:691][683]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.13:774][688]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.13:841][692]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.13:891][695]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.13:941][698]LogPython: Sldier was moved to: 26
+[2025.10.01-11.15.13:991][701]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.14:024][703]LogPython: Sldier was moved to: 28
+[2025.10.01-11.15.14:041][704]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.14:074][706]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.14:108][708]LogPython: Sldier was moved to: 31
+[2025.10.01-11.15.14:141][710]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.14:174][712]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.14:207][714]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.14:241][716]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.14:307][720]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.14:392][725]LogPython: Sldier was moved to: 37
+[2025.10.01-11.15.15:391][785]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.15:407][786]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.15:425][787]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.15:457][789]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.15:491][791]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.15:507][792]LogPython: Sldier was moved to: 31
+[2025.10.01-11.15.15:524][793]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.15:541][794]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.15:557][795]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.15:574][796]LogPython: Sldier was moved to: 26
+[2025.10.01-11.15.15:591][797]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.15:607][798]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.15:625][799]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.15:625][799]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.15:641][800]LogPython: Sldier was moved to: 21
+[2025.10.01-11.15.15:657][801]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.15:674][802]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.15:691][803]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.15:707][804]LogPython: Sldier was moved to: 16
+[2025.10.01-11.15.15:724][805]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.15:740][806]LogPython: Sldier was moved to: 13
+[2025.10.01-11.15.15:757][807]LogPython: Sldier was moved to: 11
+[2025.10.01-11.15.15:774][808]LogPython: Sldier was moved to: 9
+[2025.10.01-11.15.15:790][809]LogPython: Sldier was moved to: 8
+[2025.10.01-11.15.15:807][810]LogPython: Sldier was moved to: 7
+[2025.10.01-11.15.15:824][811]LogPython: Sldier was moved to: 5
+[2025.10.01-11.15.15:857][813]LogPython: Sldier was moved to: 4
+[2025.10.01-11.15.15:941][818]LogPython: Sldier was moved to: 3
+[2025.10.01-11.15.16:141][830]LogPython: Sldier was moved to: 2
+[2025.10.01-11.15.16:391][845]LogPython: Sldier was moved to: 3
+[2025.10.01-11.15.16:407][846]LogPython: Sldier was moved to: 4
+[2025.10.01-11.15.16:425][847]LogPython: Sldier was moved to: 5
+[2025.10.01-11.15.16:441][848]LogPython: Sldier was moved to: 6
+[2025.10.01-11.15.16:457][849]LogPython: Sldier was moved to: 7
+[2025.10.01-11.15.16:474][850]LogPython: Sldier was moved to: 8
+[2025.10.01-11.15.16:491][851]LogPython: Sldier was moved to: 9
+[2025.10.01-11.15.16:524][853]LogPython: Sldier was moved to: 10
+[2025.10.01-11.15.16:541][854]LogPython: Sldier was moved to: 11
+[2025.10.01-11.15.16:557][855]LogPython: Sldier was moved to: 12
+[2025.10.01-11.15.16:591][857]LogPython: Sldier was moved to: 13
+[2025.10.01-11.15.16:624][859]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.16:624][859]LogPython: Sldier was moved to: 15
+[2025.10.01-11.15.16:657][861]LogPython: Sldier was moved to: 16
+[2025.10.01-11.15.16:674][862]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.16:707][864]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.16:741][866]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.16:757][867]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.16:774][868]LogPython: Sldier was moved to: 21
+[2025.10.01-11.15.16:791][869]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.16:807][870]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.16:825][871]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.16:841][872]LogPython: Sldier was moved to: 26
+[2025.10.01-11.15.16:857][873]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.16:874][874]LogPython: Sldier was moved to: 28
+[2025.10.01-11.15.16:890][875]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.16:907][876]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.16:941][878]LogPython: Sldier was moved to: 31
+[2025.10.01-11.15.16:957][879]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.16:974][880]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.16:991][881]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.17:026][883]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.17:058][885]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.17:541][914]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.17:574][916]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.17:607][918]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.17:624][919]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.17:641][920]LogPython: Sldier was moved to: 31
+[2025.10.01-11.15.17:674][922]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.17:691][923]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.17:707][924]LogPython: Sldier was moved to: 28
+[2025.10.01-11.15.17:758][927]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.17:824][931]LogPython: Sldier was moved to: 26
+[2025.10.01-11.15.18:307][960]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.19:407][ 26]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.19:425][ 27]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.19:457][ 29]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.19:474][ 30]LogPython: Sldier was moved to: 21
+[2025.10.01-11.15.19:507][ 32]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.19:541][ 34]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.19:574][ 36]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.19:674][ 42]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.19:724][ 45]LogPython: Sldier was moved to: 16
+[2025.10.01-11.15.19:742][ 46]LogPython: Sldier was moved to: 15
+[2025.10.01-11.15.19:774][ 48]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.19:807][ 50]LogPython: Sldier was moved to: 13
+[2025.10.01-11.15.19:824][ 51]LogPython: Sldier was moved to: 12
+[2025.10.01-11.15.19:824][ 51]LogPython: Sldier was moved to: 11
+[2025.10.01-11.15.19:857][ 53]LogPython: Sldier was moved to: 10
+[2025.10.01-11.15.19:874][ 54]LogPython: Sldier was moved to: 9
+[2025.10.01-11.15.19:890][ 55]LogPython: Sldier was moved to: 8
+[2025.10.01-11.15.19:907][ 56]LogPython: Sldier was moved to: 7
+[2025.10.01-11.15.19:941][ 58]LogPython: Sldier was moved to: 6
+[2025.10.01-11.15.19:957][ 59]LogPython: Sldier was moved to: 5
+[2025.10.01-11.15.20:024][ 63]LogPython: Sldier was moved to: 4
+[2025.10.01-11.15.20:074][ 66]LogPython: Sldier was moved to: 3
+[2025.10.01-11.15.20:174][ 72]LogPython: Sldier was moved to: 2
+[2025.10.01-11.15.20:424][ 87]LogPython: Sldier was moved to: 3
+[2025.10.01-11.15.20:441][ 88]LogPython: Sldier was moved to: 4
+[2025.10.01-11.15.20:474][ 90]LogPython: Sldier was moved to: 5
+[2025.10.01-11.15.20:508][ 92]LogPython: Sldier was moved to: 6
+[2025.10.01-11.15.20:524][ 93]LogPython: Sldier was moved to: 7
+[2025.10.01-11.15.20:557][ 95]LogPython: Sldier was moved to: 8
+[2025.10.01-11.15.20:591][ 97]LogPython: Sldier was moved to: 9
+[2025.10.01-11.15.20:624][ 99]LogPython: Sldier was moved to: 10
+[2025.10.01-11.15.20:657][101]LogPython: Sldier was moved to: 11
+[2025.10.01-11.15.20:708][104]LogPython: Sldier was moved to: 12
+[2025.10.01-11.15.20:791][109]LogPython: Sldier was moved to: 13
+[2025.10.01-11.15.20:841][112]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.20:924][117]LogPython: Sldier was moved to: 15
+[2025.10.01-11.15.21:291][139]LogPython: Sldier was moved to: 16
+[2025.10.01-11.15.21:541][154]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.21:624][159]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.21:641][160]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.21:657][161]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.21:691][163]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.21:708][164]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.21:725][165]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.21:741][166]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.21:757][167]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.21:775][168]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.21:807][170]LogPython: Sldier was moved to: 31
+[2025.10.01-11.15.21:824][171]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.21:840][172]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.22:024][183]LogPython: Sldier was moved to: 32
+[2025.10.01-11.15.22:024][183]LogPython: Sldier was moved to: 31
+[2025.10.01-11.15.22:041][184]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.22:057][185]LogPython: Sldier was moved to: 26
+[2025.10.01-11.15.22:075][186]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.22:091][187]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.22:108][188]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.22:124][189]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.22:141][190]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.22:158][191]LogPython: Sldier was moved to: 12
+[2025.10.01-11.15.22:174][192]LogPython: Sldier was moved to: 10
+[2025.10.01-11.15.22:192][193]LogPython: Sldier was moved to: 9
+[2025.10.01-11.15.22:209][194]LogPython: Sldier was moved to: 8
+[2025.10.01-11.15.22:209][194]LogPython: Sldier was moved to: 7
+[2025.10.01-11.15.22:358][203]LogPython: Sldier was moved to: 8
+[2025.10.01-11.15.22:374][204]LogPython: Sldier was moved to: 12
+[2025.10.01-11.15.22:391][205]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.22:408][206]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.22:408][206]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.22:424][207]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.22:441][208]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.22:459][209]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.22:507][212]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.22:624][219]LogPython: Sldier was moved to: 24
+[2025.10.01-11.15.22:641][220]LogPython: Sldier was moved to: 22
+[2025.10.01-11.15.22:658][221]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.22:674][222]LogPython: Sldier was moved to: 15
+[2025.10.01-11.15.22:692][223]LogPython: Sldier was moved to: 11
+[2025.10.01-11.15.22:708][224]LogPython: Sldier was moved to: 7
+[2025.10.01-11.15.22:724][225]LogPython: Sldier was moved to: 5
+[2025.10.01-11.15.22:742][226]LogPython: Sldier was moved to: 4
+[2025.10.01-11.15.22:958][239]LogPython: Sldier was moved to: 5
+[2025.10.01-11.15.22:974][240]LogPython: Sldier was moved to: 6
+[2025.10.01-11.15.22:991][241]LogPython: Sldier was moved to: 8
+[2025.10.01-11.15.23:007][242]LogPython: Sldier was moved to: 10
+[2025.10.01-11.15.23:008][242]LogPython: Sldier was moved to: 13
+[2025.10.01-11.15.23:025][243]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.23:042][244]LogPython: Sldier was moved to: 29
+[2025.10.01-11.15.23:058][245]LogPython: Sldier was moved to: 38
+[2025.10.01-11.15.23:075][246]LogPython: Sldier was moved to: 44
+[2025.10.01-11.15.23:092][247]LogPython: Sldier was moved to: 48
+[2025.10.01-11.15.23:108][248]LogPython: Sldier was moved to: 50
+[2025.10.01-11.15.23:341][262]LogPython: Sldier was moved to: 43
+[2025.10.01-11.15.23:357][263]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.23:374][264]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.23:392][265]LogPython: Sldier was moved to: 14
+[2025.10.01-11.15.23:408][266]LogPython: Sldier was moved to: 10
+[2025.10.01-11.15.23:475][270]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.23:491][271]LogPython: Sldier was moved to: 27
+[2025.10.01-11.15.23:509][272]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.23:524][273]LogPython: Sldier was moved to: 36
+[2025.10.01-11.15.23:574][276]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.23:591][277]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.23:608][278]LogPython: Sldier was moved to: 10
+[2025.10.01-11.15.23:609][278]LogPython: Sldier was moved to: 6
+[2025.10.01-11.15.23:624][279]LogPython: Sldier was moved to: 5
+[2025.10.01-11.15.23:642][280]LogPython: Sldier was moved to: 4
+[2025.10.01-11.15.23:658][281]LogPython: Sldier was moved to: 5
+[2025.10.01-11.15.23:674][282]LogPython: Sldier was moved to: 10
+[2025.10.01-11.15.23:692][283]LogPython: Sldier was moved to: 20
+[2025.10.01-11.15.23:708][284]LogPython: Sldier was moved to: 25
+[2025.10.01-11.15.23:758][287]LogPython: Sldier was moved to: 23
+[2025.10.01-11.15.23:775][288]LogPython: Sldier was moved to: 18
+[2025.10.01-11.15.23:792][289]LogPython: Sldier was moved to: 15
+[2025.10.01-11.15.23:824][291]LogPython: Sldier was moved to: 17
+[2025.10.01-11.15.23:841][292]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.23:858][293]LogPython: Sldier was moved to: 48
+[2025.10.01-11.15.23:875][294]LogPython: Sldier was moved to: 50
+[2025.10.01-11.15.23:908][296]LogPython: Sldier was moved to: 39
+[2025.10.01-11.15.23:924][297]LogPython: Sldier was moved to: 19
+[2025.10.01-11.15.23:942][298]LogPython: Sldier was moved to: 3
+[2025.10.01-11.15.23:958][299]LogPython: Sldier was moved to: 2
+[2025.10.01-11.15.23:974][300]LogPython: Sldier was moved to: 4
+[2025.10.01-11.15.23:991][301]LogPython: Sldier was moved to: 15
+[2025.10.01-11.15.24:008][302]LogPython: Sldier was moved to: 30
+[2025.10.01-11.15.24:008][302]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.24:024][303]LogPython: Sldier was moved to: 35
+[2025.10.01-11.15.24:074][306]LogPython: Sldier was moved to: 34
+[2025.10.01-11.15.24:092][307]LogPython: Sldier was moved to: 33
+[2025.10.01-11.15.24:109][308]LogPython: Sldier was moved to: 32
+[2025.10.01-11.16.00:567][533]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5850.655762
+[2025.10.01-11.16.01:576][535]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-11.16.01:576][535]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5851.330566, Update Interval: 303.222748
+[2025.10.01-11.19.21:983][136]LogPython: Error: Traceback (most recent call last):
+  File "c:\Users\adamd\Desktop\UE5_Python_Repo\UE_Python_AdamRepo\UE6PythonProject\Content\Python\GUI_Python.py:70", line 70, in <module>
+    launchWindow()
+  File "c:\Users\adamd\Desktop\UE5_Python_Repo\UE_Python_AdamRepo\UE6PythonProject\Content\Python\GUI_Python.py:64", line 64, in launchWindow
+    UnrealToolWindow.window = UnrealToolWindow()
+                               ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adamd\Desktop\UE5_Python_Repo\UE_Python_AdamRepo\UE6PythonProject\Content\Python\GUI_Python.py:32", line 32, in __init__
+    layout = QBoxLayout()
+              ^^^^^^^^^^^^
+TypeError: 'PySide6.QtWidgets.QBoxLayout.__init__' called with wrong argument types:
+  PySide6.QtWidgets.QBoxLayout.__init__()
+Supported signatures:
+  PySide6.QtWidgets.QBoxLayout.__init__(arg__1: PySide6.QtWidgets.QBoxLayout.Direction, /, parent: PySide6.QtWidgets.QWidget | None = None)
+
+[2025.10.01-11.21.28:961][517]LogPython: Error: Traceback (most recent call last):
+  File "c:\Users\adamd\Desktop\UE5_Python_Repo\UE_Python_AdamRepo\UE6PythonProject\Content\Python\GUI_Python.py:72", line 72, in <module>
+    launchWindow()
+  File "c:\Users\adamd\Desktop\UE5_Python_Repo\UE_Python_AdamRepo\UE6PythonProject\Content\Python\GUI_Python.py:66", line 66, in launchWindow
+    UnrealToolWindow.window = UnrealToolWindow()
+                               ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\adamd\Desktop\UE5_Python_Repo\UE_Python_AdamRepo\UE6PythonProject\Content\Python\GUI_Python.py:34", line 34, in __init__
+    layout = QBoxLayout()
+              ^^^^^^^^^^^^
+TypeError: 'PySide6.QtWidgets.QBoxLayout.__init__' called with wrong argument types:
+  PySide6.QtWidgets.QBoxLayout.__init__()
+Supported signatures:
+  PySide6.QtWidgets.QBoxLayout.__init__(arg__1: PySide6.QtWidgets.QBoxLayout.Direction, /, parent: PySide6.QtWidgets.QWidget | None = None)
+
+[2025.10.01-11.22.04:213][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6214.307617
+[2025.10.01-11.22.05:204][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-11.22.05:204][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6214.975586, Update Interval: 343.961304
+[2025.10.01-11.25.28:165][923]LogPython: Sldier was moved to: 26
+[2025.10.01-11.25.28:181][924]LogPython: Sldier was moved to: 27
+[2025.10.01-11.25.28:214][926]LogPython: Sldier was moved to: 28
+[2025.10.01-11.25.28:231][927]LogPython: Sldier was moved to: 29
+[2025.10.01-11.25.28:247][928]LogPython: Sldier was moved to: 31
+[2025.10.01-11.25.28:264][929]LogPython: Sldier was moved to: 32
+[2025.10.01-11.25.28:282][930]LogPython: Sldier was moved to: 33
+[2025.10.01-11.25.28:298][931]LogPython: Sldier was moved to: 34
+[2025.10.01-11.25.28:314][932]LogPython: Sldier was moved to: 35
+[2025.10.01-11.25.28:331][933]LogPython: Sldier was moved to: 36
+[2025.10.01-11.25.28:365][935]LogPython: Sldier was moved to: 37
+[2025.10.01-11.25.28:398][937]LogPython: Sldier was moved to: 38
+[2025.10.01-11.25.28:648][952]LogPython: Sldier was moved to: 37
+[2025.10.01-11.25.28:664][953]LogPython: Sldier was moved to: 36
+[2025.10.01-11.25.28:698][955]LogPython: Sldier was moved to: 35
+[2025.10.01-11.25.28:731][957]LogPython: Sldier was moved to: 34
+[2025.10.01-11.25.28:748][958]LogPython: Sldier was moved to: 33
+[2025.10.01-11.25.28:764][959]LogPython: Sldier was moved to: 32
+[2025.10.01-11.25.28:782][960]LogPython: Sldier was moved to: 31
+[2025.10.01-11.25.28:814][962]LogPython: Sldier was moved to: 30
+[2025.10.01-11.25.28:848][964]LogPython: Sldier was moved to: 29
+[2025.10.01-11.25.28:881][966]LogPython: Sldier was moved to: 28
+[2025.10.01-11.25.28:931][969]LogPython: Sldier was moved to: 27
+[2025.10.01-11.25.29:032][975]LogPython: Sldier was moved to: 26
+[2025.10.01-11.25.32:232][167]LogPython: Sldier was moved to: 25
+[2025.10.01-11.25.32:249][168]LogPython: Sldier was moved to: 24
+[2025.10.01-11.25.32:266][169]LogPython: Sldier was moved to: 23
+[2025.10.01-11.25.32:284][170]LogPython: Sldier was moved to: 22
+[2025.10.01-11.25.32:284][170]LogPython: Sldier was moved to: 21
+[2025.10.01-11.25.32:299][171]LogPython: Sldier was moved to: 19
+[2025.10.01-11.25.32:317][172]LogPython: Sldier was moved to: 18
+[2025.10.01-11.25.32:333][173]LogPython: Sldier was moved to: 17
+[2025.10.01-11.25.32:366][175]LogPython: Sldier was moved to: 16
+[2025.10.01-11.25.33:616][250]LogPython: BUTTON CLICKED
+[2025.10.01-11.25.33:616][250]LogPython: Checked: True
+[2025.10.01-11.25.34:317][292]LogPython: BUTTON CLICKED
+[2025.10.01-11.25.34:317][292]LogPython: Checked: False
+[2025.10.01-11.25.34:868][325]LogPython: BUTTON CLICKED
+[2025.10.01-11.25.34:868][325]LogPython: Checked: True
+[2025.10.01-11.25.35:767][379]LogPython: Sldier was moved to: 19
+[2025.10.01-11.25.35:850][384]LogPython: Sldier was moved to: 20
+[2025.10.01-11.25.35:866][385]LogPython: Sldier was moved to: 21
+[2025.10.01-11.25.35:884][386]LogPython: Sldier was moved to: 22
+[2025.10.01-11.25.35:900][387]LogPython: Sldier was moved to: 23
+[2025.10.01-11.25.35:916][388]LogPython: Sldier was moved to: 24
+[2025.10.01-11.25.35:933][389]LogPython: Sldier was moved to: 25
+[2025.10.01-11.25.35:966][391]LogPython: Sldier was moved to: 26
+[2025.10.01-11.25.36:016][394]LogPython: Sldier was moved to: 27
+[2025.10.01-11.25.36:050][396]LogPython: Sldier was moved to: 28
+[2025.10.01-11.25.36:085][398]LogPython: Sldier was moved to: 29
+[2025.10.01-11.25.36:085][398]LogPython: Sldier was moved to: 30
+[2025.10.01-11.25.36:100][399]LogPython: Sldier was moved to: 32
+[2025.10.01-11.25.36:116][400]LogPython: Sldier was moved to: 33
+[2025.10.01-11.25.36:133][401]LogPython: Sldier was moved to: 34
+[2025.10.01-11.25.36:183][404]LogPython: Sldier was moved to: 33
+[2025.10.01-11.25.36:216][406]LogPython: Sldier was moved to: 31
+[2025.10.01-11.25.36:233][407]LogPython: Sldier was moved to: 29
+[2025.10.01-11.25.36:249][408]LogPython: Sldier was moved to: 26
+[2025.10.01-11.25.36:266][409]LogPython: Sldier was moved to: 23
+[2025.10.01-11.25.36:284][410]LogPython: Sldier was moved to: 20
+[2025.10.01-11.25.36:299][411]LogPython: Sldier was moved to: 19
+[2025.10.01-11.25.36:316][412]LogPython: Sldier was moved to: 18
+[2025.10.01-11.25.36:333][413]LogPython: Sldier was moved to: 17
+[2025.10.01-11.25.36:350][414]LogPython: Sldier was moved to: 16
+[2025.10.01-11.25.36:366][415]LogPython: Sldier was moved to: 15
+[2025.10.01-11.25.36:399][417]LogPython: Sldier was moved to: 14
+[2025.10.01-11.25.36:533][425]LogPython: Sldier was moved to: 15
+[2025.10.01-11.25.36:550][426]LogPython: Sldier was moved to: 16
+[2025.10.01-11.25.36:583][428]LogPython: Sldier was moved to: 17
+[2025.10.01-11.26.01:778][821]LogPython: BUTTON CLICKED
+[2025.10.01-11.26.01:778][821]LogPython: Checked: True
+[2025.10.01-11.26.02:576][869]LogPython: Sldier was moved to: 26
+[2025.10.01-11.26.02:593][870]LogPython: Sldier was moved to: 27
+[2025.10.01-11.26.02:626][872]LogPython: Sldier was moved to: 28
+[2025.10.01-11.26.02:760][880]LogPython: Sldier was moved to: 26
+[2025.10.01-11.26.02:776][881]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.02:794][882]LogPython: Sldier was moved to: 22
+[2025.10.01-11.26.02:811][883]LogPython: Sldier was moved to: 20
+[2025.10.01-11.26.02:811][883]LogPython: Sldier was moved to: 19
+[2025.10.01-11.26.02:826][884]LogPython: Sldier was moved to: 18
+[2025.10.01-11.26.02:844][885]LogPython: Sldier was moved to: 16
+[2025.10.01-11.26.02:860][886]LogPython: Sldier was moved to: 15
+[2025.10.01-11.26.02:877][887]LogPython: Sldier was moved to: 14
+[2025.10.01-11.26.02:910][889]LogPython: Sldier was moved to: 13
+[2025.10.01-11.26.02:944][891]LogPython: Sldier was moved to: 12
+[2025.10.01-11.26.02:994][894]LogPython: Sldier was moved to: 11
+[2025.10.01-11.26.03:143][903]LogPython: Sldier was moved to: 12
+[2025.10.01-11.26.03:160][904]LogPython: Sldier was moved to: 13
+[2025.10.01-11.26.03:177][905]LogPython: Sldier was moved to: 14
+[2025.10.01-11.26.03:194][906]LogPython: Sldier was moved to: 16
+[2025.10.01-11.26.03:210][907]LogPython: Sldier was moved to: 18
+[2025.10.01-11.26.03:210][907]LogPython: Sldier was moved to: 19
+[2025.10.01-11.26.03:227][908]LogPython: Sldier was moved to: 22
+[2025.10.01-11.26.03:243][909]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.03:261][910]LogPython: Sldier was moved to: 26
+[2025.10.01-11.26.11:816][172]LogAutomationController: Ignoring very large delta of 3.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.01-11.26.15:261][304]LogPython: Sldier was moved to: 27
+[2025.10.01-11.26.15:294][306]LogPython: Sldier was moved to: 26
+[2025.10.01-11.26.15:345][309]LogPython: Sldier was moved to: 25
+[2025.10.01-11.26.15:378][311]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.15:395][312]LogPython: Sldier was moved to: 23
+[2025.10.01-11.26.15:411][313]LogPython: Sldier was moved to: 22
+[2025.10.01-11.26.15:427][314]LogPython: Sldier was moved to: 20
+[2025.10.01-11.26.15:444][315]LogPython: Sldier was moved to: 19
+[2025.10.01-11.26.15:460][316]LogPython: Sldier was moved to: 17
+[2025.10.01-11.26.15:478][317]LogPython: Sldier was moved to: 16
+[2025.10.01-11.26.15:494][318]LogPython: Sldier was moved to: 14
+[2025.10.01-11.26.15:510][319]LogPython: Sldier was moved to: 13
+[2025.10.01-11.26.15:528][320]LogPython: Sldier was moved to: 12
+[2025.10.01-11.26.15:545][321]LogPython: Sldier was moved to: 11
+[2025.10.01-11.26.15:561][322]LogPython: Sldier was moved to: 10
+[2025.10.01-11.26.15:577][323]LogPython: Sldier was moved to: 9
+[2025.10.01-11.26.15:596][324]LogPython: Sldier was moved to: 8
+[2025.10.01-11.26.15:645][327]LogPython: Sldier was moved to: 7
+[2025.10.01-11.26.15:660][328]LogPython: Sldier was moved to: 6
+[2025.10.01-11.26.15:695][330]LogPython: Sldier was moved to: 5
+[2025.10.01-11.26.15:845][339]LogPython: Sldier was moved to: 6
+[2025.10.01-11.26.15:860][340]LogPython: Sldier was moved to: 9
+[2025.10.01-11.26.15:878][341]LogPython: Sldier was moved to: 12
+[2025.10.01-11.26.15:895][342]LogPython: Sldier was moved to: 16
+[2025.10.01-11.26.15:911][343]LogPython: Sldier was moved to: 19
+[2025.10.01-11.26.15:927][344]LogPython: Sldier was moved to: 22
+[2025.10.01-11.26.15:944][345]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.15:961][346]LogPython: Sldier was moved to: 26
+[2025.10.01-11.26.15:977][347]LogPython: Sldier was moved to: 27
+[2025.10.01-11.26.15:994][348]LogPython: Sldier was moved to: 29
+[2025.10.01-11.26.15:994][348]LogPython: Sldier was moved to: 30
+[2025.10.01-11.26.16:011][349]LogPython: Sldier was moved to: 33
+[2025.10.01-11.26.16:028][350]LogPython: Sldier was moved to: 35
+[2025.10.01-11.26.16:044][351]LogPython: Sldier was moved to: 36
+[2025.10.01-11.26.16:061][352]LogPython: Sldier was moved to: 39
+[2025.10.01-11.26.16:078][353]LogPython: Sldier was moved to: 40
+[2025.10.01-11.26.16:094][354]LogPython: Sldier was moved to: 42
+[2025.10.01-11.26.16:128][356]LogPython: Sldier was moved to: 43
+[2025.10.01-11.26.16:277][365]LogPython: Sldier was moved to: 41
+[2025.10.01-11.26.16:295][366]LogPython: Sldier was moved to: 40
+[2025.10.01-11.26.16:311][367]LogPython: Sldier was moved to: 38
+[2025.10.01-11.26.16:327][368]LogPython: Sldier was moved to: 36
+[2025.10.01-11.26.16:344][369]LogPython: Sldier was moved to: 34
+[2025.10.01-11.26.16:361][370]LogPython: Sldier was moved to: 31
+[2025.10.01-11.26.16:377][371]LogPython: Sldier was moved to: 28
+[2025.10.01-11.26.16:395][372]LogPython: Sldier was moved to: 26
+[2025.10.01-11.26.16:395][372]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.16:410][373]LogPython: Sldier was moved to: 22
+[2025.10.01-11.26.16:428][374]LogPython: Sldier was moved to: 20
+[2025.10.01-11.26.16:444][375]LogPython: Sldier was moved to: 18
+[2025.10.01-11.26.16:461][376]LogPython: Sldier was moved to: 17
+[2025.10.01-11.26.16:478][377]LogPython: Sldier was moved to: 15
+[2025.10.01-11.26.16:495][378]LogPython: Sldier was moved to: 14
+[2025.10.01-11.26.16:511][379]LogPython: Sldier was moved to: 13
+[2025.10.01-11.26.16:545][381]LogPython: Sldier was moved to: 12
+[2025.10.01-11.26.16:644][387]LogPython: Sldier was moved to: 13
+[2025.10.01-11.26.16:661][388]LogPython: Sldier was moved to: 16
+[2025.10.01-11.26.16:677][389]LogPython: Sldier was moved to: 18
+[2025.10.01-11.26.16:694][390]LogPython: Sldier was moved to: 21
+[2025.10.01-11.26.16:711][391]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.16:727][392]LogPython: Sldier was moved to: 27
+[2025.10.01-11.26.16:744][393]LogPython: Sldier was moved to: 29
+[2025.10.01-11.26.16:760][394]LogPython: Sldier was moved to: 32
+[2025.10.01-11.26.16:777][395]LogPython: Sldier was moved to: 34
+[2025.10.01-11.26.16:794][396]LogPython: Sldier was moved to: 36
+[2025.10.01-11.26.16:810][397]LogPython: Sldier was moved to: 38
+[2025.10.01-11.26.16:878][401]LogPython: Sldier was moved to: 39
+[2025.10.01-11.26.17:478][437]LogPython: BUTTON CLICKED
+[2025.10.01-11.26.17:478][437]LogPython: Checked: False
+[2025.10.01-11.26.18:311][487]LogPython: Sldier was moved to: 37
+[2025.10.01-11.26.18:327][488]LogPython: Sldier was moved to: 35
+[2025.10.01-11.26.18:344][489]LogPython: Sldier was moved to: 33
+[2025.10.01-11.26.18:361][490]LogPython: Sldier was moved to: 31
+[2025.10.01-11.26.18:380][491]LogPython: Sldier was moved to: 30
+[2025.10.01-11.26.18:380][491]LogPython: Sldier was moved to: 29
+[2025.10.01-11.26.18:398][492]LogPython: Sldier was moved to: 27
+[2025.10.01-11.26.18:414][493]LogPython: Sldier was moved to: 25
+[2025.10.01-11.26.18:447][495]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.18:480][497]LogPython: Sldier was moved to: 23
+[2025.10.01-11.26.26:774][987]LogPython: Sldier was moved to: 22
+[2025.10.01-11.26.26:790][988]LogPython: Sldier was moved to: 20
+[2025.10.01-11.26.26:807][989]LogPython: Sldier was moved to: 17
+[2025.10.01-11.26.26:824][990]LogPython: Sldier was moved to: 15
+[2025.10.01-11.26.26:840][991]LogPython: Sldier was moved to: 12
+[2025.10.01-11.26.26:857][992]LogPython: Sldier was moved to: 9
+[2025.10.01-11.26.26:874][993]LogPython: Sldier was moved to: 7
+[2025.10.01-11.26.26:890][994]LogPython: Sldier was moved to: 5
+[2025.10.01-11.26.26:907][995]LogPython: Sldier was moved to: 4
+[2025.10.01-11.26.26:940][997]LogPython: Sldier was moved to: 3
+[2025.10.01-11.26.26:974][999]LogPython: Sldier was moved to: 2
+[2025.10.01-11.26.27:174][ 11]LogPython: Sldier was moved to: 3
+[2025.10.01-11.26.27:190][ 12]LogPython: Sldier was moved to: 6
+[2025.10.01-11.26.27:207][ 13]LogPython: Sldier was moved to: 9
+[2025.10.01-11.26.27:224][ 14]LogPython: Sldier was moved to: 12
+[2025.10.01-11.26.27:240][ 15]LogPython: Sldier was moved to: 15
+[2025.10.01-11.26.27:257][ 16]LogPython: Sldier was moved to: 18
+[2025.10.01-11.26.27:274][ 17]LogPython: Sldier was moved to: 20
+[2025.10.01-11.26.27:275][ 17]LogPython: Sldier was moved to: 21
+[2025.10.01-11.26.27:290][ 18]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.27:307][ 19]LogPython: Sldier was moved to: 27
+[2025.10.01-11.26.27:324][ 20]LogPython: Sldier was moved to: 29
+[2025.10.01-11.26.27:341][ 21]LogPython: Sldier was moved to: 31
+[2025.10.01-11.26.27:357][ 22]LogPython: Sldier was moved to: 33
+[2025.10.01-11.26.27:374][ 23]LogPython: Sldier was moved to: 36
+[2025.10.01-11.26.27:390][ 24]LogPython: Sldier was moved to: 37
+[2025.10.01-11.26.27:407][ 25]LogPython: Sldier was moved to: 39
+[2025.10.01-11.26.27:440][ 27]LogPython: Sldier was moved to: 41
+[2025.10.01-11.26.27:474][ 29]LogPython: Sldier was moved to: 42
+[2025.10.01-11.26.27:508][ 31]LogPython: Sldier was moved to: 43
+[2025.10.01-11.26.27:541][ 33]LogPython: Sldier was moved to: 44
+[2025.10.01-11.26.27:590][ 36]LogPython: Sldier was moved to: 45
+[2025.10.01-11.26.27:690][ 42]LogPython: Sldier was moved to: 44
+[2025.10.01-11.26.27:707][ 43]LogPython: Sldier was moved to: 42
+[2025.10.01-11.26.27:725][ 44]LogPython: Sldier was moved to: 37
+[2025.10.01-11.26.27:741][ 45]LogPython: Sldier was moved to: 31
+[2025.10.01-11.26.27:757][ 46]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.27:774][ 47]LogPython: Sldier was moved to: 16
+[2025.10.01-11.26.27:790][ 48]LogPython: Sldier was moved to: 10
+[2025.10.01-11.26.27:808][ 49]LogPython: Sldier was moved to: 5
+[2025.10.01-11.26.27:824][ 50]LogPython: Sldier was moved to: 3
+[2025.10.01-11.26.27:841][ 51]LogPython: Sldier was moved to: 2
+[2025.10.01-11.26.27:857][ 52]LogPython: Sldier was moved to: 1
+[2025.10.01-11.26.28:008][ 61]LogPython: Sldier was moved to: 3
+[2025.10.01-11.26.28:024][ 62]LogPython: Sldier was moved to: 5
+[2025.10.01-11.26.28:041][ 63]LogPython: Sldier was moved to: 8
+[2025.10.01-11.26.28:057][ 64]LogPython: Sldier was moved to: 11
+[2025.10.01-11.26.28:075][ 65]LogPython: Sldier was moved to: 14
+[2025.10.01-11.26.28:075][ 65]LogPython: Sldier was moved to: 16
+[2025.10.01-11.26.28:090][ 66]LogPython: Sldier was moved to: 20
+[2025.10.01-11.26.28:107][ 67]LogPython: Sldier was moved to: 23
+[2025.10.01-11.26.28:125][ 68]LogPython: Sldier was moved to: 26
+[2025.10.01-11.26.28:140][ 69]LogPython: Sldier was moved to: 29
+[2025.10.01-11.26.28:157][ 70]LogPython: Sldier was moved to: 31
+[2025.10.01-11.26.28:174][ 71]LogPython: Sldier was moved to: 32
+[2025.10.01-11.26.38:888][355]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.38:938][358]LogPython: Sldier was moved to: 23
+[2025.10.01-11.26.38:971][360]LogPython: Sldier was moved to: 21
+[2025.10.01-11.26.38:988][361]LogPython: Sldier was moved to: 19
+[2025.10.01-11.26.39:005][362]LogPython: Sldier was moved to: 16
+[2025.10.01-11.26.39:021][363]LogPython: Sldier was moved to: 14
+[2025.10.01-11.26.39:038][364]LogPython: Sldier was moved to: 11
+[2025.10.01-11.26.39:054][365]LogPython: Sldier was moved to: 10
+[2025.10.01-11.26.39:071][366]LogPython: Sldier was moved to: 9
+[2025.10.01-11.26.39:104][368]LogPython: Sldier was moved to: 8
+[2025.10.01-11.26.39:155][371]LogPython: Sldier was moved to: 7
+[2025.10.01-11.26.39:271][378]LogPython: Sldier was moved to: 8
+[2025.10.01-11.26.39:304][380]LogPython: Sldier was moved to: 10
+[2025.10.01-11.26.39:321][381]LogPython: Sldier was moved to: 11
+[2025.10.01-11.26.39:338][382]LogPython: Sldier was moved to: 12
+[2025.10.01-11.26.39:354][383]LogPython: Sldier was moved to: 13
+[2025.10.01-11.26.39:371][384]LogPython: Sldier was moved to: 14
+[2025.10.01-11.26.39:388][385]LogPython: Sldier was moved to: 15
+[2025.10.01-11.26.39:404][386]LogPython: Sldier was moved to: 16
+[2025.10.01-11.26.39:438][388]LogPython: Sldier was moved to: 17
+[2025.10.01-11.26.39:505][392]LogPython: Sldier was moved to: 18
+[2025.10.01-11.26.42:032][539]LogPython: Sldier was moved to: 17
+[2025.10.01-11.26.42:082][542]LogPython: Sldier was moved to: 18
+[2025.10.01-11.26.42:115][544]LogPython: Sldier was moved to: 19
+[2025.10.01-11.26.42:149][546]LogPython: Sldier was moved to: 20
+[2025.10.01-11.26.42:182][548]LogPython: Sldier was moved to: 21
+[2025.10.01-11.26.42:232][551]LogPython: Sldier was moved to: 22
+[2025.10.01-11.26.42:265][553]LogPython: Sldier was moved to: 23
+[2025.10.01-11.26.42:315][556]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.42:399][561]LogPython: Sldier was moved to: 25
+[2025.10.01-11.26.42:465][565]LogPython: Sldier was moved to: 26
+[2025.10.01-11.26.42:533][569]LogPython: Sldier was moved to: 27
+[2025.10.01-11.26.42:582][572]LogPython: Sldier was moved to: 28
+[2025.10.01-11.26.42:799][585]LogPython: Sldier was moved to: 27
+[2025.10.01-11.26.42:815][586]LogPython: Sldier was moved to: 26
+[2025.10.01-11.26.42:833][587]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.42:849][588]LogPython: Sldier was moved to: 22
+[2025.10.01-11.26.42:865][589]LogPython: Sldier was moved to: 21
+[2025.10.01-11.26.42:882][590]LogPython: Sldier was moved to: 20
+[2025.10.01-11.26.42:916][592]LogPython: Sldier was moved to: 19
+[2025.10.01-11.26.42:932][593]LogPython: Sldier was moved to: 18
+[2025.10.01-11.26.42:949][594]LogPython: Sldier was moved to: 17
+[2025.10.01-11.26.42:965][595]LogPython: Sldier was moved to: 16
+[2025.10.01-11.26.42:982][596]LogPython: Sldier was moved to: 15
+[2025.10.01-11.26.42:999][597]LogPython: Sldier was moved to: 14
+[2025.10.01-11.26.43:049][600]LogPython: Sldier was moved to: 13
+[2025.10.01-11.26.43:082][602]LogPython: Sldier was moved to: 12
+[2025.10.01-11.26.43:099][603]LogPython: Sldier was moved to: 11
+[2025.10.01-11.26.43:132][605]LogPython: Sldier was moved to: 10
+[2025.10.01-11.26.43:149][606]LogPython: Sldier was moved to: 9
+[2025.10.01-11.26.43:166][607]LogPython: Sldier was moved to: 8
+[2025.10.01-11.26.43:199][609]LogPython: Sldier was moved to: 7
+[2025.10.01-11.26.43:216][610]LogPython: Sldier was moved to: 6
+[2025.10.01-11.26.43:265][613]LogPython: Sldier was moved to: 5
+[2025.10.01-11.26.43:349][618]LogPython: Sldier was moved to: 4
+[2025.10.01-11.26.43:482][626]LogPython: Sldier was moved to: 5
+[2025.10.01-11.26.43:500][627]LogPython: Sldier was moved to: 6
+[2025.10.01-11.26.43:532][629]LogPython: Sldier was moved to: 7
+[2025.10.01-11.26.43:549][630]LogPython: Sldier was moved to: 8
+[2025.10.01-11.26.43:566][631]LogPython: Sldier was moved to: 9
+[2025.10.01-11.26.43:582][632]LogPython: Sldier was moved to: 10
+[2025.10.01-11.26.43:615][634]LogPython: Sldier was moved to: 11
+[2025.10.01-11.26.43:632][635]LogPython: Sldier was moved to: 12
+[2025.10.01-11.26.43:666][637]LogPython: Sldier was moved to: 13
+[2025.10.01-11.26.43:682][638]LogPython: Sldier was moved to: 14
+[2025.10.01-11.26.43:699][639]LogPython: Sldier was moved to: 15
+[2025.10.01-11.26.43:716][640]LogPython: Sldier was moved to: 16
+[2025.10.01-11.26.43:733][641]LogPython: Sldier was moved to: 17
+[2025.10.01-11.26.43:749][642]LogPython: Sldier was moved to: 18
+[2025.10.01-11.26.43:766][643]LogPython: Sldier was moved to: 19
+[2025.10.01-11.26.43:782][644]LogPython: Sldier was moved to: 20
+[2025.10.01-11.26.43:799][645]LogPython: Sldier was moved to: 21
+[2025.10.01-11.26.43:815][646]LogPython: Sldier was moved to: 22
+[2025.10.01-11.26.43:833][647]LogPython: Sldier was moved to: 23
+[2025.10.01-11.26.43:848][648]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.43:866][649]LogPython: Sldier was moved to: 25
+[2025.10.01-11.26.43:866][649]LogPython: Sldier was moved to: 26
+[2025.10.01-11.26.43:882][650]LogPython: Sldier was moved to: 27
+[2025.10.01-11.26.43:916][652]LogPython: Sldier was moved to: 28
+[2025.10.01-11.26.43:932][653]LogPython: Sldier was moved to: 29
+[2025.10.01-11.26.43:949][654]LogPython: Sldier was moved to: 30
+[2025.10.01-11.26.43:965][655]LogPython: Sldier was moved to: 32
+[2025.10.01-11.26.43:999][657]LogPython: Sldier was moved to: 33
+[2025.10.01-11.26.44:049][660]LogPython: Sldier was moved to: 34
+[2025.10.01-11.26.44:216][670]LogPython: Sldier was moved to: 33
+[2025.10.01-11.26.44:232][671]LogPython: Sldier was moved to: 32
+[2025.10.01-11.26.44:250][672]LogPython: Sldier was moved to: 30
+[2025.10.01-11.26.44:282][674]LogPython: Sldier was moved to: 28
+[2025.10.01-11.26.44:299][675]LogPython: Sldier was moved to: 27
+[2025.10.01-11.26.44:316][676]LogPython: Sldier was moved to: 26
+[2025.10.01-11.26.44:333][677]LogPython: Sldier was moved to: 25
+[2025.10.01-11.26.44:349][678]LogPython: Sldier was moved to: 24
+[2025.10.01-11.26.44:383][680]LogPython: Sldier was moved to: 23
+[2025.10.01-11.26.45:366][739]LogPython: Sldier was moved to: 31

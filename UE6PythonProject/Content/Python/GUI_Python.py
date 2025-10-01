@@ -2,7 +2,7 @@ import unreal
 import sys
 from functools import partial 
 from PySide6.QtCore import QSize, Qt
-from PySide6.QtWidgets import QApplication, QWidget, QPushButton, QMainWindow
+from PySide6.QtWidgets import QApplication, QWidget, QPushButton, QMainWindow, QSlider, QVBoxLayout, QLabel
 
 class UnrealToolWindow(QWidget):
     def __init__(self, parent = None):
@@ -21,10 +21,38 @@ class UnrealToolWindow(QWidget):
         # ButtonClicked()
         self.button.clicked.connect(self.buttonClicked)
 
-        self.main_window.setCentralWidget(self.button)
+        self.slider = QSlider(Qt.Horizontal)
+        self.slider.setMinimum(0)
+        self.slider.setMaximum(50)
+        self.slider.setSliderPosition(25)
+        self.slider.valueChanged.connect(self.sliderChanged)
+
+        self.label = QLabel()
+
+        #self.main_window.setCentralWidget(self.slider)
+
+        layout = QVBoxLayout()
+        layout.addWidget(self.button)
+        layout.addWidget(self.slider)
+
+        container = QWidget()
+        container.setLayout(layout)
+
+        self.main_window.setCentralWidget(container)
+
+    def sliderChanged(self, value):
+        unreal.log("Sldier was moved to: " + str(value))
+        self.label.setText(str(value))
     
-    def buttonClicked(self):
-        pass
+    def buttonClicked(self, checked):
+        unreal.log ('BUTTON CLICKED')
+        unreal.log ('Checked: ' + str(checked) )
+
+        if checked:
+            self.button.setText ("Button was already Pressed!")
+        else:
+            self.button.setText("Press Again!")
+    
 
 
 def launchWindow():
