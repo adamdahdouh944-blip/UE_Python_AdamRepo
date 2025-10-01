@@ -2322,3 +2322,69 @@ Supported signatures:
 [2025.10.01-11.30.43:418][126]LogPython: Sldier was moved to: 24
 [2025.10.01-11.30.43:434][127]LogPython: Sldier was moved to: 23
 [2025.10.01-11.30.43:484][130]LogPython: Sldier was moved to: 22
+[2025.10.01-11.35.09:214][269]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6999.314941
+[2025.10.01-11.35.10:218][271]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-11.35.10:218][272]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6999.999512, Update Interval: 326.168396
+[2025.10.01-11.48.21:755][658]LogAutomationController: Ignoring very large delta of 662.33 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.01-11.48.27:154][674]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.10.01-11.48.27:156][674]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.01-11.48.27:401][674]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.10.01-11.48.27:401][674]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.10.01-11.48.27:402][674]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2025.10.01-11.48.27:746][675]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ac625d19-7fe2-49b9-894b-2d0fa9b29d48}, Name=Headphones (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=97.40
+[2025.10.01-11.48.27:748][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.10.01-11.48.27:748][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.01-11.48.27:750][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.01-11.48.29:873][681]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.10.01-17.05.08:943][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26801.564453
+[2025.10.01-17.05.09:936][682]LogAutomationController: Ignoring very large delta of 19002.72 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.01-17.05.13:682][682]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60715'.
+[2025.10.01-17.05.14:396][682]LogUdpMessaging: Display: Added local interface '192.168.1.120' to multicast group '230.0.0.1:6666'
+[2025.10.01-17.05.14:408][682]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.10.01-17.05.14:462][683]LogAutomationController: Ignoring very large delta of 4.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.01-17.05.16:944][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-17.05.16:944][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26809.228516, Update Interval: 309.419220
+[2025.10.01-17.05.35:944][714]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.10.01-17.05.35:944][714]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.10.01-17.05.38:046][714]LogAutomationController: Ignoring very large delta of 12.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.01-17.05.38:354][716]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.10.01-17.05.49:031][218]LogUObjectHash: Compacting FUObjectHashTables data took  22.65ms
+[2025.10.01-17.05.49:154][218]LogStall: Shutdown...
+[2025.10.01-17.05.49:154][218]LogStall: Shutdown complete.
+[2025.10.01-17.05.49:240][218]LogSlate: Window 'Message Log' being destroyed
+[2025.10.01-17.05.49:252][218]LogSlate: Window 'UE6PythonProject - Unreal Editor' being destroyed
+[2025.10.01-17.05.49:254][218]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.10.01-17.05.51:685][218]LogAutomationController: Ignoring very large delta of 3.88 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.01-17.05.51:688][218]Cmd: QUIT_EDITOR
+[2025.10.01-17.05.51:689][218]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.01-17.05.51:704][219]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.01-17.05.51:711][219]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.01-17.05.51:711][219]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.01-17.05.51:736][219]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-17.05.51:746][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-17.05.51:747][219]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.01-17.05.51:803][219]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.01-17.05.51:805][219]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.01-17.05.51:816][219]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.01-17.05.51:840][219]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-17.05.51:840][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-17.05.51:841][219]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-17.05.51:841][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-17.05.51:851][219]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.01-17.05.51:859][219]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.01-17.05.51:864][219]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.01-17.05.51:879][219]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.01-17.05.51:880][219]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.01-17.05.51:880][219]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2025.10.01-17.05.51:881][219]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.01-17.05.51:888][219]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.01-17.05.51:890][219]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.01-17.05.51:911][219]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.01-17.05.51:912][219]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.01-17.05.51:928][219]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.01-17.05.51:932][219]LogExit: Preparing to exit.
+[2025.10.01-17.05.52:183][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.01-17.05.53:092][219]LogEditorDataStorage: Deinitializing
+[2025.10.01-17.05.53:610][219]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.01-17.05.53:731][219]LogExit: Editor shut down
+[2025.10.01-17.05.53:753][219]LogExit: Transaction tracking system shut down
